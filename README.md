@@ -1,2 +1,12 @@
 # livengsports-lab
-HTML page archive and documentation
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
